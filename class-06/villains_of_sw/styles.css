@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(112, 8, 48);
+}
+
+header {
+    background-color: darkgray;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+header li {
+    border: solid black 1px;
+    display: inline;
+    background-color: rgb(182, 153, 167);
+    padding: .5%;
+    margin: 5%;
+}
+
+section {
+    background-color: darkgray;
+    text-align: center;
+}
+
+#potatoe {
+    width: 90%;
+    height: 300px;
+    margin: 10px;
+    border: solid black 1px;
+}
+
+#potatoe2 {
+    width: 50%;
+    margin: 10px;
+    border: solid black 1px; 
+}
+
+.section_text{
+    color:blue;
+}
+
+footer {
+    background-color: darkgray;
+}
+
+footer p {
+    color: red;
+}
+
+footer nav{
+    display: inline;
+}
+
+h2{
+    color: blue;
+}
+
+#empire{
+    width: 50%;
+}
