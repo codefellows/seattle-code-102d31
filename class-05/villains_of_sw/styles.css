@@ -1,0 +1,50 @@
+body {
+    background-color: bisque;
+}
+
+header {
+    background-color: darkgray;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+
+}
+
+header li {
+    border: solid black 1px;
+    display: inline;
+    background-color: orange;
+    padding: .5%;
+    margin: 5%;
+}
+
+section {
+    background-color: darkgray;
+    text-align: center;
+}
+
+#potatoe {
+    width: 90%;
+    height: 300px;
+    margin: 10px;
+    border: solid black 1px;
+}
+
+#potatoe2 {
+    width: 50%;
+    margin: 10px;
+    border: solid black 1px; 
+}
+
+.section_text{
+    color:blue;
+}
+
+footer {
+    background-color: darkgray;
+}
+footer p {
+    color: red;
+}
